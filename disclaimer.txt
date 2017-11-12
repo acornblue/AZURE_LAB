@@ -1,0 +1,2 @@
+This is a derivative version that has been created specifically for the STM32L4 IoT Discovery Kit seminars.
+Please visit www.st.com to get the latest version
