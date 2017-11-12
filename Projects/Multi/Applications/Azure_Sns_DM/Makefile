@@ -282,6 +282,7 @@ C_INCLUDES =  \
 -I../../../../Middlewares/Third_Parties/mbedtls/include \
 -I../../../../Middlewares/ST/lib_NDEF/inc \
 -I../../../../Middlewares/ST/STM32_MetaDataManager \
+-I../../../../Drivers/CMSIS/Include \
 -IInc
 
 # compile gcc flags
